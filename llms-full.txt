@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Aurora
+
+> Geotechnical engineering services in Aurora, United States.
+
+## Services
+- [Anchors](https://aurora.geotechnicalengineering1.org/anchors/)
+- [Atterberg Limits](https://aurora.geotechnicalengineering1.org/atterberg-limits/)
+- [Cbr Road](https://aurora.geotechnicalengineering1.org/cbr-road/)
+- [Cpt Test](https://aurora.geotechnicalengineering1.org/cpt-test/)
+- [Deep Excavations](https://aurora.geotechnicalengineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://aurora.geotechnicalengineering1.org/excavation-monitoring/)
+- [Excavations](https://aurora.geotechnicalengineering1.org/excavations/)
+- [Flexible Pavement](https://aurora.geotechnicalengineering1.org/flexible-pavement/)
+- [Footings](https://aurora.geotechnicalengineering1.org/footings/)
+- [Foundations](https://aurora.geotechnicalengineering1.org/foundations/)
+- [Grain Size](https://aurora.geotechnicalengineering1.org/grain-size/)
+- [Ground Improvement](https://aurora.geotechnicalengineering1.org/ground-improvement/)
+- [Grouting](https://aurora.geotechnicalengineering1.org/grouting/)
+- [In Situ Permeability](https://aurora.geotechnicalengineering1.org/in-situ-permeability/)
+- [Investigation](https://aurora.geotechnicalengineering1.org/investigation/)
+- [Lab In Situ](https://aurora.geotechnicalengineering1.org/lab-in-situ/)
+- [Laboratory](https://aurora.geotechnicalengineering1.org/laboratory/)
+- [Liquefaction](https://aurora.geotechnicalengineering1.org/liquefaction/)
+- [Masw](https://aurora.geotechnicalengineering1.org/masw/)
+- [Mat Foundations](https://aurora.geotechnicalengineering1.org/mat-foundations/)
+- [Piles](https://aurora.geotechnicalengineering1.org/piles/)
+- [Proctor Tests](https://aurora.geotechnicalengineering1.org/proctor-tests/)
+- [Resistivity](https://aurora.geotechnicalengineering1.org/resistivity/)
+- [Retaining Walls](https://aurora.geotechnicalengineering1.org/retaining-walls/)
+- [Rigid Pavement](https://aurora.geotechnicalengineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://aurora.geotechnicalengineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://aurora.geotechnicalengineering1.org/sand-cone-density/)
+- [Seismic](https://aurora.geotechnicalengineering1.org/seismic/)
+- [Seismic Isolation](https://aurora.geotechnicalengineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://aurora.geotechnicalengineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://aurora.geotechnicalengineering1.org/seismic-refraction/)
+- [Slope Stability](https://aurora.geotechnicalengineering1.org/slope-stability/)
+- [Slopes](https://aurora.geotechnicalengineering1.org/slopes/)
+- [Soft Ground Tunnels](https://aurora.geotechnicalengineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://aurora.geotechnicalengineering1.org/spt-drilling/)
+- [Stone Columns](https://aurora.geotechnicalengineering1.org/stone-columns/)
+- [Test Pits](https://aurora.geotechnicalengineering1.org/test-pits/)
+- [Triaxial](https://aurora.geotechnicalengineering1.org/triaxial/)
+- [Vibrocompaction](https://aurora.geotechnicalengineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://aurora.geotechnicalengineering1.org/
+
+## About
+This site provides geotechnical engineering services in Aurora, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
